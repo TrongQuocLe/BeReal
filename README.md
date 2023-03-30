@@ -33,6 +33,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/6QO9qM9iQFm85L2QVr/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Link Gif: https://media.giphy.com/media/6QO9qM9iQFm85L2QVr/giphy.gif 
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap and giphy
